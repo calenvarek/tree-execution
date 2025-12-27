@@ -35,9 +35,9 @@
   },
   "homepage": "https://github.com/calenvarek/tree-execution#readme",
   "dependencies": {
-    "@eldrforge/tree-core": "^0.1.1",
-    "@eldrforge/git-tools": "^0.1.13",
-    "@eldrforge/shared": "^0.1.2"
+    "@eldrforge/tree-core": "^0.1.2",
+    "@eldrforge/git-tools": "^0.1.14",
+    "@eldrforge/shared": "^0.1.3"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3.2.0",
