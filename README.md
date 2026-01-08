@@ -1525,7 +1525,7 @@ Contributions are welcome! Please follow these guidelines:
 
 ```bash
 # Setup development environment
-git clone https://github.com/calenvarek/tree-execution.git
+git clone https://github.com/grunnverk/tree-execution.git
 cd tree-execution
 npm install
 
@@ -1554,12 +1554,12 @@ npm run lint
 
 ## License
 
-MIT © Calen Varek
+MIT © Tim O'Brien
 
 ## Links
 
-- **GitHub**: https://github.com/calenvarek/tree-execution
-- **Issues**: https://github.com/calenvarek/tree-execution/issues
+- **GitHub**: https://github.com/grunnverk/tree-execution
+- **Issues**: https://github.com/grunnverk/tree-execution/issues
 - **npm**: https://www.npmjs.com/package/@eldrforge/tree-execution
 
 ## Related Projects

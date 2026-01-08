@@ -24,16 +24,16 @@
     "recovery",
     "checkpoint"
   ],
-  "author": "Calen Varek <calenvarek@gmail.com>",
+  "author": "Tim O'Brien <tobrien@discursive.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/calenvarek/tree-execution.git"
+    "url": "git+https://github.com/grunnverk/tree-execution.git"
   },
   "bugs": {
-    "url": "https://github.com/calenvarek/tree-execution/issues"
+    "url": "https://github.com/grunnverk/tree-execution/issues"
   },
-  "homepage": "https://github.com/calenvarek/tree-execution#readme",
+  "homepage": "https://github.com/grunnverk/tree-execution#readme",
   "dependencies": {
     "@eldrforge/tree-core": "^0.1.4",
     "@eldrforge/git-tools": "^0.1.15",
