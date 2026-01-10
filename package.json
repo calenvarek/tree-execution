@@ -35,9 +35,9 @@
   },
   "homepage": "https://github.com/grunnverk/tree-execution#readme",
   "dependencies": {
-    "@eldrforge/tree-core": "^0.1.5",
-    "@eldrforge/git-tools": "^0.1.16",
-    "@eldrforge/shared": "^0.1.6"
+    "@eldrforge/tree-core": "^0.1.6",
+    "@eldrforge/git-tools": "^0.1.17",
+    "@eldrforge/shared": "^0.1.7"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3.2.0",
